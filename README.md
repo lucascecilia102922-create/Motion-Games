@@ -4,8 +4,14 @@
 - It features a Pong and a Golf game, both featuring implementation to the Wii motion controls.  
 (Each one has a separate version on their respective repositories.)
 
+# Instructions:
 
-# TO-DO:
+**WITH WII REMOTE**:
+- Connect the wii remote via bluetooth using "Wii Pair"
+- Open the game on godot
+- Wait a few seconds for the connection to be made
+- Have fun!  
 
-- Enhance Visuals for the Pong enemy, Main menu, ending screens and a few of the Golf Obstacles
-- Change winning logic on Golf
+**WITHOUT WII REMOTE**:
+- Open the game
+- On the connection screen, press escape to skip the process and go into keyboard and mouse mode
